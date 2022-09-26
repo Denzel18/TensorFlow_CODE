@@ -29,12 +29,14 @@ Project related to CV & DL course and master's thesis developed by Bernovschi D.
   * Pytorch Architectures
   * Custom Metrics 
   * Different Data Augmentation (D.A.) Libraries 
-* **New Architecture**
-  * *Tensorflow Architecture Base*: NO D.A., D.A. Offline & Online
-  * *Tensorflow Architecture Adversarial*: NO D.A., D.A. Offline & Online
-* **Old Architecture** 
-  * *Tensorflow Architecture Base*: NO D.A., D.A. Offline & Online
-  * *Tensorflow Architecture Adversarial*: NO D.A., D.A. Offline & Online 
+* **TENSORFLOW**
+  * **TENSORFLOW - ADVERSARIAL** 
+    * OLD VERSION (OLD ARCHITECTURE)
+    * *Tensorflow Architecture Adversarial*: NO D.A., D.A. Offline & Online
+  * **TENSORFLOW - BASELINE**
+    * OLD VERSION 
+    * *Tensorflow Architecture Base*: NO D.A., D.A. Offline & Online
+
 * **Metrics**
 
 
