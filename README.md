@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Denzel18/Tensorflow_Architecture_CODE">
-    <img src="images/logo.jpg" alt="Logo" width="250" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="250" height="120">
   </a>
 </div>
 <br>
