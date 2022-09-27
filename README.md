@@ -40,7 +40,7 @@ Project related to CV & DL course and master's thesis developed by Bernovschi D.
 * **Metrics**
 
 
-## How it works 
+## How it works - Tensorflow (Baseline and Adversarial architectures)
 1. **Setting Parameters for Test**: Here we need to specify the type of IMAGE (CROP or NO_CROP) and the path of images 
 2.  **Import**: Here is set the import of all libraries needed and the fix seed 
 3.  **Drive**: Is the block for the connection to google drive storage 
@@ -74,6 +74,10 @@ Project related to CV & DL course and master's thesis developed by Bernovschi D.
     1.  ***(t-SNE) t-Distributed Stochastic Neighbor Embedding*** is a non-linear dimensionality reduction algorithm used for exploring high-dimensional data. 
     2.  ***(PCA) Principal Component Analysis*** is a technique used in multivariate statistics for simplification of source data. 
 26. **New Metrics**:  Fairness Metrics and Balance Accuracy accross model series 
+
+## How it works - Pytorch (GAN architecture)
+1. sdfsdfds
+2. 
 
 ### Paper
 
