@@ -123,10 +123,6 @@ Project related to CV & DL course and master's thesis developed by Bernovschi D.
     2.  ***(PCA) Principal Component Analysis*** is a technique used in multivariate statistics for simplification of source data. 
 29. **New Metrics**:  Fairness Metrics and Balance Accuracy accross model series 
 
-### Paper
-
-[LINK](https://www.google.it)
-
 ### Contributors 
 - A. Giacomini 
 - D. Bernovschi 
