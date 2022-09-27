@@ -31,10 +31,10 @@ Project related to CV & DL course and master's thesis developed by Bernovschi D.
   * Different Data Augmentation (D.A.) Libraries 
 * **TENSORFLOW**
   * **TENSORFLOW - ADVERSARIAL** 
-    * OLD VERSION (OLD ARCHITECTURE)
+    * OLD VERSION (OLD BASELINE ARCHITECTURE)
     * *Tensorflow Architecture Adversarial*: NO D.A., D.A. Offline & Online
   * **TENSORFLOW - BASELINE**
-    * OLD VERSION 
+    * OLD VERSION (Other files with different CV transform libraries for D.A. - same architecture)
     * *Tensorflow Architecture Base*: NO D.A., D.A. Offline & Online
 
 * **Metrics**
